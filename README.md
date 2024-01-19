@@ -19,8 +19,8 @@ The following steps are performed in the project:
 - Building a Voting Classifier with multiple base models
 - Evaluating models and visualizing results
 - BERT-based Sentiment Analysis
-  
-![image](https://github.com/RaghuBhetwal/Sentimenr_analysis/assets/88844603/04bbd3bb-c74a-46c9-a7c6-e3d6f3be756f)
+  ![image](https://github.com/RaghuBhetwal/Sentiment_Analysis/assets/88844603/dd5d9238-69be-41ce-846c-0bace86c1c61)
+
 
 
 ## BERT-Based Sentiment Analysis
@@ -65,8 +65,8 @@ The script implements a training loop with cross-validation, validation loss tra
 
 BERT: Confusion Matrix:
 
+![image-1](https://github.com/RaghuBhetwal/Sentiment_Analysis/assets/88844603/bb831bb5-05c6-4cfb-b363-7a7eb7d3c41d)
 
-![image-1](https://github.com/RaghuBhetwal/Sentimenr_analysis/assets/88844603/1360c866-fff4-417d-bbb0-455a04b060c9)
 
 
 ## Machine Learning model
@@ -97,9 +97,8 @@ BERT: Confusion Matrix:
 ## Confusion Matrix
 Confusion matrices are visualized for the tuned SVM model and the Voting Classifier.
 
-![image-2](https://github.com/RaghuBhetwal/Sentimenr_analysis/assets/88844603/55fdb84a-21fa-46a8-8c96-156f5c43b9cd)
 
-![image-3](https://github.com/RaghuBhetwal/Sentimenr_analysis/assets/88844603/167124c3-448f-47c8-af17-5ec0d68a8c3d)
+![image-2](https://github.com/RaghuBhetwal/Sentiment_Analysis/assets/88844603/e3944d2b-a0b9-43dc-82aa-e2e61f4f5f90)![image-3](https://github.com/RaghuBhetwal/Sentiment_Analysis/assets/88844603/a4aa4345-4824-46c4-a7b2-713d1abdb0a1)
 
 
 
